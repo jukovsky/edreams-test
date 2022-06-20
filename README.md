@@ -45,18 +45,21 @@ http://localhost:8887/?fromDate=2022-01-06&toDate=2022-01-06&adults=3
 - Cache system. The existing two provider classes preload data and store it. In real life, we should load data
   dynamically.
   But maybe based on business processes it could be stored for some periods to improve timings.
-- In real world when we have to deal with dozens of different providers, we should use queues, for example, to return
-  results by portions. So we can show the progress for users or show partial results.
+- In the real world when we have to deal with dozens of different providers, we should use queues, for example, to
+  return
+  results in portions. So we can show the progress for users or show partial results.
 - It is better to implement DI via containers.
 
 ### Current architecture
 
-- I prefer to store business logic in services. To keep controllers as thin as possible. In case of using data layer
-  additional repository layer should be provided.
+- I prefer to store business logic in services. To keep controllers as thin as possible. In the case of using data layer
+  an additional repository layer should be provided.
 - Currently, two provider classes are more or less just a copy-paste of each other. So in this case it would be better
-  to implement one class to work with JSON data and use decomposition to provide additional interface which calculates
-  commissions. But existing solution is based on the assumption that different providers use completely different APIs.
-- A GET method was used, but in real world we have to deal with more sophisticated filters with complex structure. So
+  to implement one class to work with JSON data and use decomposition to provide an additional interface that calculates
+  commissions. But the existing solution is based on the assumption that different providers use completely different
+  APIs.
+- A GET method was used, but in the real world, we have to deal with more sophisticated filters with complex structures.
+  So
   POST method could be preferable. Even if it's against basic REST principles.
-- I prefer not to use 'Interface' suffix as it's easier to add flexibility to application by replacing existing
-  particular class with interface.
+- I prefer not to use the 'Interface' suffix as it's easier to add flexibility to the application by replacing existing
+  particular class with an interface.
