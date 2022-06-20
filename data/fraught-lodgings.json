@@ -1,0 +1,312 @@
+{
+    "lodgings": {
+        "1": {
+            "Name": "Creepy Couple B&B",
+            "rooms": [
+                {
+                    "Id": "1",
+                    "Beds": "1",
+                    "MaxPersons": "2",
+                    "availability": []
+                },
+                {
+                    "Id": "2",
+                    "Beds": "2",
+                    "MaxPersons": "3",
+                    "availability": []
+                },
+                {
+                    "Id": "3",
+                    "Beds": "1",
+                    "MaxPersons": "1",
+                    "availability": []
+                },
+                {
+                    "Id": "4",
+                    "Beds": "1",
+                    "MaxPersons": "1",
+                    "availability": []
+                }
+            ]
+        },
+        "2": {
+            "Name": "Dirty Sheets Inn",
+            "rooms": [
+                {
+                    "Id": "1",
+                    "Beds": "3",
+                    "MaxPersons": "3",
+                    "availability": []
+                },
+                {
+                    "Id": "2",
+                    "Beds": "3",
+                    "MaxPersons": "5",
+                    "availability": []
+                },
+                {
+                    "Id": "3",
+                    "Beds": "2",
+                    "MaxPersons": "2",
+                    "availability": []
+                },
+                {
+                    "Id": "4",
+                    "Beds": "1",
+                    "MaxPersons": "2",
+                    "availability": []
+                }
+            ]
+        },
+        "3": {
+            "Name": "Last Stop Motel",
+            "rooms": [
+                {
+                    "Id": "1",
+                    "Beds": "1",
+                    "MaxPersons": "2",
+                    "availability": []
+                },
+                {
+                    "Id": "2",
+                    "Beds": "1",
+                    "MaxPersons": "2",
+                    "availability": []
+                },
+                {
+                    "Id": "3",
+                    "Beds": "2",
+                    "MaxPersons": "4",
+                    "availability": []
+                },
+                {
+                    "Id": "4",
+                    "Beds": "1",
+                    "MaxPersons": "1",
+                    "availability": []
+                }
+            ]
+        },
+        "4": {
+            "Name": "Flimsy Railing Towers",
+            "rooms": [
+                {
+                    "Id": "1",
+                    "Beds": "1",
+                    "MaxPersons": "2",
+                    "availability": []
+                },
+                {
+                    "Id": "2",
+                    "Beds": "2",
+                    "MaxPersons": "4",
+                    "availability": []
+                },
+                {
+                    "Id": "3",
+                    "Beds": "3",
+                    "MaxPersons": "6",
+                    "availability": []
+                },
+                {
+                    "Id": "4",
+                    "Beds": "3",
+                    "MaxPersons": "3",
+                    "availability": []
+                }
+            ]
+        },
+        "5": {
+            "Name": "Indian Burial Ground Yurts",
+            "rooms": [
+                {
+                    "Id": "1",
+                    "Beds": "2",
+                    "MaxPersons": "2",
+                    "availability": {
+                        "2022-01-06": "200"
+                    }
+                },
+                {
+                    "Id": "2",
+                    "Beds": "1",
+                    "MaxPersons": "1",
+                    "availability": []
+                },
+                {
+                    "Id": "3",
+                    "Beds": "3",
+                    "MaxPersons": "4",
+                    "availability": []
+                },
+                {
+                    "Id": "4",
+                    "Beds": "3",
+                    "MaxPersons": "6",
+                    "availability": []
+                }
+            ]
+        },
+        "6": {
+            "Name": "Flickering Light Motel",
+            "rooms": [
+                {
+                    "Id": "1",
+                    "Beds": "2",
+                    "MaxPersons": "2",
+                    "availability": []
+                },
+                {
+                    "Id": "2",
+                    "Beds": "1",
+                    "MaxPersons": "1",
+                    "availability": []
+                },
+                {
+                    "Id": "3",
+                    "Beds": "1",
+                    "MaxPersons": "1",
+                    "availability": []
+                },
+                {
+                    "Id": "4",
+                    "Beds": "3",
+                    "MaxPersons": "5",
+                    "availability": []
+                }
+            ]
+        },
+        "7": {
+            "Name": "Flapping Shutter Inn",
+            "rooms": [
+                {
+                    "Id": "1",
+                    "Beds": "2",
+                    "MaxPersons": "4",
+                    "availability": []
+                },
+                {
+                    "Id": "2",
+                    "Beds": "3",
+                    "MaxPersons": "6",
+                    "availability": []
+                },
+                {
+                    "Id": "3",
+                    "Beds": "2",
+                    "MaxPersons": "4",
+                    "availability": []
+                },
+                {
+                    "Id": "4",
+                    "Beds": "2",
+                    "MaxPersons": "3",
+                    "availability": []
+                }
+            ]
+        },
+        "8": {
+            "Name": "Murky Lake Hotel",
+            "rooms": [
+                {
+                    "Id": "1",
+                    "Beds": "2",
+                    "MaxPersons": "2",
+                    "availability": []
+                },
+                {
+                    "Id": "2",
+                    "Beds": "3",
+                    "MaxPersons": "3",
+                    "availability": []
+                },
+                {
+                    "Id": "3",
+                    "Beds": "1",
+                    "MaxPersons": "2",
+                    "availability": []
+                },
+                {
+                    "Id": "4",
+                    "Beds": "1",
+                    "MaxPersons": "1",
+                    "availability": []
+                }
+            ]
+        },
+        "9": {
+            "Name": "Grim Corridors Hotel",
+            "rooms": [
+                {
+                    "Id": "1",
+                    "Beds": "2",
+                    "MaxPersons": "3",
+                    "availability": []
+                },
+                {
+                    "Id": "2",
+                    "Beds": "1",
+                    "MaxPersons": "1",
+                    "availability": []
+                },
+                {
+                    "Id": "3",
+                    "Beds": "3",
+                    "MaxPersons": "6",
+                    "availability": []
+                },
+                {
+                    "Id": "4",
+                    "Beds": "3",
+                    "MaxPersons": "3",
+                    "availability": []
+                }
+            ]
+        },
+        "10": {
+            "Name": "Unsavory Company Hostel",
+            "rooms": [
+                {
+                    "Id": "1",
+                    "Beds": "1",
+                    "MaxPersons": "1",
+                    "availability": {
+                        "2022-01-03": "70",
+                        "2022-01-04": "70",
+                        "2022-01-05": "70"
+                    }
+                },
+                {
+                    "Id": "2",
+                    "Beds": "3",
+                    "MaxPersons": "6",
+                    "availability": {
+                        "2022-01-03": "70",
+                        "2022-01-04": "70",
+                        "2022-01-05": "70"
+                    }
+                },
+                {
+                    "Id": "3",
+                    "Beds": "2",
+                    "MaxPersons": "3",
+                    "availability": {
+                        "2022-01-03": "70",
+                        "2022-01-04": "70",
+                        "2022-01-05": "70"
+                    }
+                },
+                {
+                    "Id": "4",
+                    "Beds": "2",
+                    "MaxPersons": "3",
+                    "availability": {
+                        "2022-01-03": "70",
+                        "2022-01-04": "70",
+                        "2022-01-05": "70"
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,349 @@
+{
+    "lodgings": {
+        "11": {
+            "Name": "American West Yurts",
+            "rooms": [
+                {
+                    "Id": "1",
+                    "Beds": "2",
+                    "MaxPersons": "4",
+                    "availability": {
+                        "2022-01-01": "200",
+                        "2022-01-02": "150"
+                    }
+                },
+                {
+                    "Id": "2",
+                    "Beds": "1",
+                    "MaxPersons": "1",
+                    "availability": {
+                        "2022-01-01": "200",
+                        "2022-01-02": "100"
+                    }
+                },
+                {
+                    "Id": "3",
+                    "Beds": "2",
+                    "MaxPersons": "2",
+                    "availability": {
+                        "2022-01-01": "200",
+                        "2022-01-02": "175"
+                    }
+                },
+                {
+                    "Id": "4",
+                    "Beds": "1",
+                    "MaxPersons": "1",
+                    "availability": {
+                        "2022-01-01": "5",
+                        "2022-01-02": "10"
+                    }
+                },
+                {
+                    "Id": "5",
+                    "Beds": "2",
+                    "MaxPersons": "2",
+                    "availability": {
+                        "2022-01-01": "70",
+                        "2022-01-02": "75"
+                    }
+                }
+            ]
+        },
+        "12": {
+            "Name": "Nordic Yurts",
+            "rooms": [
+                {
+                    "Id": "1",
+                    "Beds": "1",
+                    "MaxPersons": "1",
+                    "availability": []
+                },
+                {
+                    "Id": "2",
+                    "Beds": "3",
+                    "MaxPersons": "6",
+                    "availability": []
+                },
+                {
+                    "Id": "3",
+                    "Beds": "2",
+                    "MaxPersons": "4",
+                    "availability": []
+                },
+                {
+                    "Id": "4",
+                    "Beds": "3",
+                    "MaxPersons": "5",
+                    "availability": []
+                }
+            ]
+        },
+        "5": {
+            "Name": "Indian Burial Ground Yurts",
+            "rooms": [
+                {
+                    "Id": "1",
+                    "Beds": "3",
+                    "MaxPersons": "5",
+                    "availability": {
+                        "2022-01-06": "200"
+                    }
+                },
+                {
+                    "Id": "2",
+                    "Beds": "2",
+                    "MaxPersons": "3",
+                    "availability": []
+                },
+                {
+                    "Id": "3",
+                    "Beds": "1",
+                    "MaxPersons": "1",
+                    "availability": []
+                },
+                {
+                    "Id": "4",
+                    "Beds": "1",
+                    "MaxPersons": "1",
+                    "availability": []
+                }
+            ]
+        },
+        "14": {
+            "Name": "Alpine Yurts",
+            "rooms": [
+                {
+                    "Id": "1",
+                    "Beds": "3",
+                    "MaxPersons": "5",
+                    "availability": []
+                },
+                {
+                    "Id": "2",
+                    "Beds": "3",
+                    "MaxPersons": "3",
+                    "availability": []
+                },
+                {
+                    "Id": "3",
+                    "Beds": "2",
+                    "MaxPersons": "4",
+                    "availability": []
+                },
+                {
+                    "Id": "4",
+                    "Beds": "2",
+                    "MaxPersons": "4",
+                    "availability": []
+                }
+            ]
+        },
+        "15": {
+            "Name": "Pacific Yurts",
+            "rooms": [
+                {
+                    "Id": "1",
+                    "Beds": "1",
+                    "MaxPersons": "2",
+                    "availability": []
+                },
+                {
+                    "Id": "2",
+                    "Beds": "2",
+                    "MaxPersons": "3",
+                    "availability": []
+                },
+                {
+                    "Id": "3",
+                    "Beds": "2",
+                    "MaxPersons": "4",
+                    "availability": []
+                },
+                {
+                    "Id": "4",
+                    "Beds": "1",
+                    "MaxPersons": "2",
+                    "availability": []
+                }
+            ]
+        },
+        "16": {
+            "Name": "Safari Yurts",
+            "rooms": [
+                {
+                    "Id": "1",
+                    "Beds": "3",
+                    "MaxPersons": "3",
+                    "availability": []
+                },
+                {
+                    "Id": "2",
+                    "Beds": "2",
+                    "MaxPersons": "4",
+                    "availability": []
+                },
+                {
+                    "Id": "3",
+                    "Beds": "3",
+                    "MaxPersons": "3",
+                    "availability": []
+                },
+                {
+                    "Id": "4",
+                    "Beds": "2",
+                    "MaxPersons": "4",
+                    "availability": []
+                }
+            ]
+        },
+        "17": {
+            "Name": "Amazonian Yurts",
+            "rooms": [
+                {
+                    "Id": "1",
+                    "Beds": "3",
+                    "MaxPersons": "6",
+                    "availability": []
+                },
+                {
+                    "Id": "2",
+                    "Beds": "3",
+                    "MaxPersons": "4",
+                    "availability": []
+                },
+                {
+                    "Id": "3",
+                    "Beds": "1",
+                    "MaxPersons": "1",
+                    "availability": []
+                },
+                {
+                    "Id": "4",
+                    "Beds": "1",
+                    "MaxPersons": "1",
+                    "availability": []
+                }
+            ]
+        },
+        "18": {
+            "Name": "Yurts on the Seine",
+            "rooms": [
+                {
+                    "Id": "1",
+                    "Beds": "3",
+                    "MaxPersons": "4",
+                    "availability": []
+                },
+                {
+                    "Id": "2",
+                    "Beds": "3",
+                    "MaxPersons": "5",
+                    "availability": []
+                },
+                {
+                    "Id": "3",
+                    "Beds": "3",
+                    "MaxPersons": "4",
+                    "availability": []
+                },
+                {
+                    "Id": "4",
+                    "Beds": "3",
+                    "MaxPersons": "5",
+                    "availability": []
+                }
+            ]
+        },
+        "19": {
+            "Name": "Lunar Yurts",
+            "rooms": [
+                {
+                    "Id": "1",
+                    "Beds": "3",
+                    "MaxPersons": "3",
+                    "availability": {
+                        "2022-01-03": "60",
+                        "2022-01-04": "60",
+                        "2022-01-05": "60"
+                    }
+                },
+                {
+                    "Id": "2",
+                    "Beds": "3",
+                    "MaxPersons": "3",
+                    "availability": {
+                        "2022-01-03": "60",
+                        "2022-01-04": "60",
+                        "2022-01-05": "60"
+                    }
+                },
+                {
+                    "Id": "3",
+                    "Beds": "1",
+                    "MaxPersons": "2",
+                    "availability": {
+                        "2022-01-03": "60",
+                        "2022-01-04": "60",
+                        "2022-01-05": "60"
+                    }
+                },
+                {
+                    "Id": "4",
+                    "Beds": "1",
+                    "MaxPersons": "3",
+                    "availability": {
+                        "2022-01-03": "60",
+                        "2022-01-04": "60",
+                        "2022-01-05": "60"
+                    }
+                }
+            ]
+        },
+        "20": {
+            "Name": "Yangtze River Yurts",
+            "rooms": [
+                {
+                    "Id": "1",
+                    "Beds": "3",
+                    "MaxPersons": "3",
+                    "availability": {
+                        "2022-01-03": "50",
+                        "2022-01-04": "50",
+                        "2022-01-05": "50"
+                    }
+                },
+                {
+                    "Id": "2",
+                    "Beds": "1",
+                    "MaxPersons": "1",
+                    "availability": {
+                        "2022-01-03": "50",
+                        "2022-01-04": "50",
+                        "2022-01-05": "50"
+                    }
+                },
+                {
+                    "Id": "3",
+                    "Beds": "3",
+                    "MaxPersons": "3",
+                    "availability": {
+                        "2022-01-03": "50",
+                        "2022-01-04": "50",
+                        "2022-01-05": "50"
+                    }
+                },
+                {
+                    "Id": "4",
+                    "Beds": "2",
+                    "MaxPersons": "3",
+                    "availability": {
+                        "2022-01-03": "50",
+                        "2022-01-04": "50",
+                        "2022-01-05": "50"
+                    }
+                }
+            ]
+        }
+    }
+}
